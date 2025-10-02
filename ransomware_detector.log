@@ -1,0 +1,199 @@
+2025-10-01 22:07:55,679 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-01 22:07:55,679 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-01 22:07:55,682 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-01 22:07:56,159 - WARNING -  * Debugger is active!
+2025-10-01 22:07:56,164 - INFO -  * Debugger PIN: 674-090-017
+2025-10-01 22:08:20,119 - INFO -  * Detected change in 'C:\\Users\\Fran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\unicode_escape.py', reloading
+2025-10-01 22:08:20,128 - INFO - 127.0.0.1 - - [01/Oct/2025 22:08:20] "GET / HTTP/1.1" 200 -
+2025-10-01 22:08:20,271 - INFO - 127.0.0.1 - - [01/Oct/2025 22:08:20] "GET /static/index.css HTTP/1.1" 200 -
+2025-10-01 22:08:20,288 - INFO - 127.0.0.1 - - [01/Oct/2025 22:08:20] "GET /static/img/logoChallenge.png HTTP/1.1" 200 -
+2025-10-01 22:08:20,322 - INFO - 127.0.0.1 - - [01/Oct/2025 22:08:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-01 22:08:20,393 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-01 22:08:20,878 - WARNING -  * Debugger is active!
+2025-10-01 22:08:20,881 - INFO -  * Debugger PIN: 674-090-017
+2025-10-01 22:08:23,468 - INFO - 127.0.0.1 - - [01/Oct/2025 22:08:23] "GET /logs HTTP/1.1" 200 -
+2025-10-01 22:08:39,639 - INFO - Iniciando monitoramento anti-ransomware...
+2025-10-01 22:08:39,639 - INFO - 127.0.0.1 - - [01/Oct/2025 22:08:39] "GET /start HTTP/1.1" 200 -
+2025-10-01 22:09:32,757 - INFO -  * Detected change in 'C:\\Users\\Fran\\Documents\\challenge\\ransonware.py', reloading
+2025-10-01 22:09:32,758 - INFO -  * Detected change in 'C:\\Users\\Fran\\Documents\\challenge\\ransonware.py', reloading
+2025-10-01 22:09:32,759 - INFO -  * Detected change in 'C:\\Users\\Fran\\Documents\\challenge\\ransonware.py', reloading
+2025-10-01 22:09:33,314 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-01 22:09:33,954 - WARNING -  * Debugger is active!
+2025-10-01 22:09:33,958 - INFO -  * Debugger PIN: 674-090-017
+2025-10-01 22:09:36,470 - INFO - 127.0.0.1 - - [01/Oct/2025 22:09:36] "GET /logs HTTP/1.1" 200 -
+2025-10-01 22:11:42,523 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-01 22:11:42,523 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-01 22:11:42,525 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-01 22:11:43,050 - WARNING -  * Debugger is active!
+2025-10-01 22:11:43,053 - INFO -  * Debugger PIN: 674-090-017
+2025-10-01 22:11:43,615 - INFO - 127.0.0.1 - - [01/Oct/2025 22:11:43] "GET /logs HTTP/1.1" 200 -
+2025-10-01 22:11:51,400 - INFO - Iniciando monitoramento anti-ransomware...
+2025-10-01 22:11:51,400 - INFO - 127.0.0.1 - - [01/Oct/2025 22:11:51] "GET /start HTTP/1.1" 200 -
+2025-10-01 22:12:06,016 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_0.bin, Entropia=8.00
+2025-10-01 22:12:06,016 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_0.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:06,051 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_0.bin, Entropia=8.00
+2025-10-01 22:12:06,051 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_0.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:06,095 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_1.bin, Entropia=8.00
+2025-10-01 22:12:06,096 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_1.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:06,136 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_1.bin, Entropia=8.00
+2025-10-01 22:12:06,136 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_1.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:06,177 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_2.bin, Entropia=8.00
+2025-10-01 22:12:06,177 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_2.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:06,226 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_3.bin, Entropia=8.00
+2025-10-01 22:12:06,227 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_3.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:06,285 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_4.bin, Entropia=8.00
+2025-10-01 22:12:06,285 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_4.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:06,334 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_5.bin, Entropia=8.00
+2025-10-01 22:12:06,334 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_5.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:06,364 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_6.bin, Entropia=8.00
+2025-10-01 22:12:06,364 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_6.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:06,398 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_7.bin, Entropia=8.00
+2025-10-01 22:12:06,398 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_7.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:06,442 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_8.bin, Entropia=8.00
+2025-10-01 22:12:06,442 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_8.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:06,466 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_8.bin, Entropia=8.00
+2025-10-01 22:12:06,466 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_8.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:06,505 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_9.bin, Entropia=8.00
+2025-10-01 22:12:06,506 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_9.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:06,532 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_9.bin, Entropia=8.00
+2025-10-01 22:12:06,532 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_9.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:06,578 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_10.bin, Entropia=8.00
+2025-10-01 22:12:06,578 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_10.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:06,612 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_11.bin, Entropia=8.00
+2025-10-01 22:12:06,613 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_11.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:06,650 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_12.bin, Entropia=8.00
+2025-10-01 22:12:06,650 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_12.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:06,671 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_12.bin, Entropia=8.00
+2025-10-01 22:12:06,672 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_12.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:06,708 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_13.bin, Entropia=8.00
+2025-10-01 22:12:06,709 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_13.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:06,730 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_13.bin, Entropia=8.00
+2025-10-01 22:12:06,730 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_13.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:06,769 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_14.bin, Entropia=8.00
+2025-10-01 22:12:06,769 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_14.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:06,770 - CRITICAL - [ATAQUE DETECTADO] Atividade suspeita detectada - possível ransomware!
+2025-10-01 22:12:07,850 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_15.bin, Entropia=8.00
+2025-10-01 22:12:07,850 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_15.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:07,851 - CRITICAL - [ATAQUE DETECTADO] Atividade suspeita detectada - possível ransomware!
+2025-10-01 22:12:07,859 - WARNING - [ALERTA] Encerrando processo suspeito: System Idle Process (PID 0)
+2025-10-01 22:12:07,859 - ERROR - Erro ao encerrar processo 0: (pid=0, name='System Idle Process')
+2025-10-01 22:12:08,461 - WARNING - [ALERTA] Encerrando processo suspeito: python.exe (PID 14228)
+2025-10-01 22:12:32,208 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-01 22:12:32,208 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-01 22:12:32,211 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-01 22:12:32,803 - WARNING -  * Debugger is active!
+2025-10-01 22:12:32,809 - INFO -  * Debugger PIN: 674-090-017
+2025-10-01 22:12:32,849 - INFO - 127.0.0.1 - - [01/Oct/2025 22:12:32] "GET /logs HTTP/1.1" 200 -
+2025-10-01 22:12:42,514 - INFO - Iniciando monitoramento anti-ransomware...
+2025-10-01 22:12:42,515 - INFO - 127.0.0.1 - - [01/Oct/2025 22:12:42] "GET /start HTTP/1.1" 200 -
+2025-10-01 22:12:42,546 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_114.bin, Entropia=8.00
+2025-10-01 22:12:42,546 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_114.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:42,604 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_115.bin, Entropia=8.00
+2025-10-01 22:12:42,604 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_115.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:42,631 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_115.bin, Entropia=8.00
+2025-10-01 22:12:42,632 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_115.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:42,679 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_116.bin, Entropia=8.00
+2025-10-01 22:12:42,680 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_116.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:42,736 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_116.bin, Entropia=8.00
+2025-10-01 22:12:42,736 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_116.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:42,774 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_117.bin, Entropia=8.00
+2025-10-01 22:12:42,774 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_117.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:42,809 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_118.bin, Entropia=8.00
+2025-10-01 22:12:42,809 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_118.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:42,853 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_119.bin, Entropia=8.00
+2025-10-01 22:12:42,853 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_119.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:42,896 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_120.bin, Entropia=8.00
+2025-10-01 22:12:42,896 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_120.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:42,943 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_121.bin, Entropia=8.00
+2025-10-01 22:12:42,943 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_121.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:42,979 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_122.bin, Entropia=8.00
+2025-10-01 22:12:42,979 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_122.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:42,998 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_122.bin, Entropia=8.00
+2025-10-01 22:12:42,998 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_122.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:43,037 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_123.bin, Entropia=8.00
+2025-10-01 22:12:43,037 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_123.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:43,051 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_123.bin, Entropia=8.00
+2025-10-01 22:12:43,052 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_123.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:43,079 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_124.bin, Entropia=8.00
+2025-10-01 22:12:43,079 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_124.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:43,091 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_124.bin, Entropia=8.00
+2025-10-01 22:12:43,091 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_124.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:43,112 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_125.bin, Entropia=8.00
+2025-10-01 22:12:43,112 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_125.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:43,176 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_126.bin, Entropia=8.00
+2025-10-01 22:12:43,176 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_126.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:43,188 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_126.bin, Entropia=8.00
+2025-10-01 22:12:43,188 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_126.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:43,215 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_127.bin, Entropia=8.00
+2025-10-01 22:12:43,215 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_127.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:43,226 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_127.bin, Entropia=8.00
+2025-10-01 22:12:43,226 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_127.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:43,226 - CRITICAL - [ATAQUE DETECTADO] Atividade suspeita detectada - possível ransomware!
+2025-10-01 22:12:44,322 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_128.bin, Entropia=8.00
+2025-10-01 22:12:44,324 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_128.bin parece criptografado (entropia=8.00)
+2025-10-01 22:12:44,324 - CRITICAL - [ATAQUE DETECTADO] Atividade suspeita detectada - possível ransomware!
+2025-10-01 22:12:44,332 - WARNING - [ALERTA] Encerrando processo suspeito: System Idle Process (PID 0)
+2025-10-01 22:12:44,333 - ERROR - Erro ao encerrar processo 0: (pid=0, name='System Idle Process')
+2025-10-01 22:12:44,901 - WARNING - [ALERTA] Encerrando processo suspeito: msedgewebview2.exe (PID 5636)
+2025-10-01 22:12:45,076 - WARNING - [ALERTA] Encerrando processo suspeito: python.exe (PID 12252)
+2025-10-01 22:15:28,513 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-01 22:15:28,513 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-01 22:15:28,515 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-01 22:15:29,046 - WARNING -  * Debugger is active!
+2025-10-01 22:15:29,049 - INFO -  * Debugger PIN: 674-090-017
+2025-10-01 22:15:30,099 - INFO - 127.0.0.1 - - [01/Oct/2025 22:15:30] "GET /logs HTTP/1.1" 200 -
+2025-10-01 22:15:39,289 - INFO - Iniciando monitoramento anti-ransomware...
+2025-10-01 22:15:39,289 - INFO - 127.0.0.1 - - [01/Oct/2025 22:15:39] "GET /start HTTP/1.1" 200 -
+2025-10-01 22:15:39,327 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_109.bin, Entropia=8.00
+2025-10-01 22:15:39,328 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_109.bin parece criptografado (entropia=8.00)
+2025-10-01 22:15:39,351 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_109.bin, Entropia=8.00
+2025-10-01 22:15:39,352 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_109.bin parece criptografado (entropia=8.00)
+2025-10-01 22:15:39,394 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_110.bin, Entropia=8.00
+2025-10-01 22:15:39,394 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_110.bin parece criptografado (entropia=8.00)
+2025-10-01 22:15:39,414 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_110.bin, Entropia=8.00
+2025-10-01 22:15:39,415 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_110.bin parece criptografado (entropia=8.00)
+2025-10-01 22:15:39,461 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_111.bin, Entropia=8.00
+2025-10-01 22:15:39,461 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_111.bin parece criptografado (entropia=8.00)
+2025-10-01 22:15:39,481 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_111.bin, Entropia=8.00
+2025-10-01 22:15:39,481 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_111.bin parece criptografado (entropia=8.00)
+2025-10-01 22:15:39,523 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_112.bin, Entropia=8.00
+2025-10-01 22:15:39,523 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_112.bin parece criptografado (entropia=8.00)
+2025-10-01 22:15:39,570 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_113.bin, Entropia=8.00
+2025-10-01 22:15:39,571 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_113.bin parece criptografado (entropia=8.00)
+2025-10-01 22:15:39,603 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_113.bin, Entropia=8.00
+2025-10-01 22:15:39,603 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_113.bin parece criptografado (entropia=8.00)
+2025-10-01 22:15:39,673 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_114.bin, Entropia=8.00
+2025-10-01 22:15:39,673 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_114.bin parece criptografado (entropia=8.00)
+2025-10-01 22:15:39,731 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_115.bin, Entropia=8.00
+2025-10-01 22:15:39,731 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_115.bin parece criptografado (entropia=8.00)
+2025-10-01 22:15:39,784 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_116.bin, Entropia=8.00
+2025-10-01 22:15:39,785 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_116.bin parece criptografado (entropia=8.00)
+2025-10-01 22:15:39,840 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_117.bin, Entropia=8.00
+2025-10-01 22:15:39,840 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_117.bin parece criptografado (entropia=8.00)
+2025-10-01 22:15:39,883 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_118.bin, Entropia=8.00
+2025-10-01 22:15:39,884 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_118.bin parece criptografado (entropia=8.00)
+2025-10-01 22:15:39,915 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_119.bin, Entropia=8.00
+2025-10-01 22:15:39,915 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_119.bin parece criptografado (entropia=8.00)
+2025-10-01 22:15:39,952 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_120.bin, Entropia=8.00
+2025-10-01 22:15:39,953 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_120.bin parece criptografado (entropia=8.00)
+2025-10-01 22:15:39,994 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_121.bin, Entropia=8.00
+2025-10-01 22:15:39,995 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_121.bin parece criptografado (entropia=8.00)
+2025-10-01 22:15:40,032 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_122.bin, Entropia=8.00
+2025-10-01 22:15:40,032 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_122.bin parece criptografado (entropia=8.00)
+2025-10-01 22:15:40,046 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_122.bin, Entropia=8.00
+2025-10-01 22:15:40,046 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_122.bin parece criptografado (entropia=8.00)
+2025-10-01 22:15:40,078 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_123.bin, Entropia=8.00
+2025-10-01 22:15:40,078 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_123.bin parece criptografado (entropia=8.00)
+2025-10-01 22:15:40,105 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_124.bin, Entropia=8.00
+2025-10-01 22:15:40,106 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_124.bin parece criptografado (entropia=8.00)
+2025-10-01 22:15:40,106 - CRITICAL - [ATAQUE DETECTADO] Atividade suspeita detectada - possível ransomware!
+2025-10-01 22:15:41,088 - INFO - Arquivo alterado: C:/Users/Public\ransomware_sim\sim_124.bin, Entropia=8.00
+2025-10-01 22:15:41,089 - WARNING - [SUSPEITO] C:/Users/Public\ransomware_sim\sim_124.bin parece criptografado (entropia=8.00)
+2025-10-01 22:15:41,089 - CRITICAL - [ATAQUE DETECTADO] Atividade suspeita detectada - possível ransomware!
+2025-10-01 22:15:41,096 - WARNING - [ALERTA] Encerrando processo suspeito: System Idle Process (PID 0)
+2025-10-01 22:15:41,097 - ERROR - Erro ao encerrar processo 0: (pid=0, name='System Idle Process')
+2025-10-01 22:15:41,562 - WARNING - [ALERTA] Encerrando processo suspeito: python.exe (PID 11748)
